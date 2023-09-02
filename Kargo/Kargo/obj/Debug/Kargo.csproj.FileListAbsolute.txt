@@ -1,0 +1,56 @@
+C:\Users\BRIGHT\Desktop\konsol örnekleri\Kargo\Kargo\bin\Debug\Kargo.exe.config
+C:\Users\BRIGHT\Desktop\konsol örnekleri\Kargo\Kargo\bin\Debug\Kargo.exe
+C:\Users\BRIGHT\Desktop\konsol örnekleri\Kargo\Kargo\bin\Debug\Kargo.pdb
+C:\Users\BRIGHT\Desktop\konsol örnekleri\Kargo\Kargo\obj\Debug\Kargo.csproj.AssemblyReference.cache
+C:\Users\BRIGHT\Desktop\konsol örnekleri\Kargo\Kargo\obj\Debug\Kargo.csproj.SuggestedBindingRedirects.cache
+C:\Users\BRIGHT\Desktop\konsol örnekleri\Kargo\Kargo\obj\Debug\Kargo.Form1.resources
+C:\Users\BRIGHT\Desktop\konsol örnekleri\Kargo\Kargo\obj\Debug\Kargo.Properties.Resources.resources
+C:\Users\BRIGHT\Desktop\konsol örnekleri\Kargo\Kargo\obj\Debug\Kargo.csproj.GenerateResource.cache
+C:\Users\BRIGHT\Desktop\konsol örnekleri\Kargo\Kargo\obj\Debug\Kargo.csproj.CoreCompileInputs.cache
+C:\Users\BRIGHT\Desktop\konsol örnekleri\Kargo\Kargo\obj\Debug\Kargo.exe
+C:\Users\BRIGHT\Desktop\konsol örnekleri\Kargo\Kargo\obj\Debug\Kargo.pdb
+C:\Users\pc\Desktop\konsol örnekleri\Kargo\Kargo\bin\Debug\Kargo.exe.config
+C:\Users\pc\Desktop\konsol örnekleri\Kargo\Kargo\bin\Debug\Kargo.exe
+C:\Users\pc\Desktop\konsol örnekleri\Kargo\Kargo\bin\Debug\Kargo.pdb
+C:\Users\pc\Desktop\konsol örnekleri\Kargo\Kargo\bin\Debug\BL.dll
+C:\Users\pc\Desktop\konsol örnekleri\Kargo\Kargo\bin\Debug\DAL.dll
+C:\Users\pc\Desktop\konsol örnekleri\Kargo\Kargo\bin\Debug\BL.pdb
+C:\Users\pc\Desktop\konsol örnekleri\Kargo\Kargo\bin\Debug\DAL.pdb
+C:\Users\pc\Desktop\konsol örnekleri\Kargo\Kargo\obj\Debug\Kargo.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\konsol örnekleri\Kargo\Kargo\obj\Debug\Kargo.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\Desktop\konsol örnekleri\Kargo\Kargo\obj\Debug\Kargo.CargoUI.resources
+C:\Users\pc\Desktop\konsol örnekleri\Kargo\Kargo\obj\Debug\Kargo.Form1.resources
+C:\Users\pc\Desktop\konsol örnekleri\Kargo\Kargo\obj\Debug\Kargo.Properties.Resources.resources
+C:\Users\pc\Desktop\konsol örnekleri\Kargo\Kargo\obj\Debug\Kargo.Reports.resources
+C:\Users\pc\Desktop\konsol örnekleri\Kargo\Kargo\obj\Debug\Kargo.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\konsol örnekleri\Kargo\Kargo\obj\Debug\Kargo.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\konsol örnekleri\Kargo\Kargo\obj\Debug\Kargo.csproj.CopyComplete
+C:\Users\pc\Desktop\konsol örnekleri\Kargo\Kargo\obj\Debug\Kargo.exe
+C:\Users\pc\Desktop\konsol örnekleri\Kargo\Kargo\obj\Debug\Kargo.pdb
+C:\Users\pc\Desktop\konsol örnekleri\Kargo\Kargo\obj\Debug\Kargo.CustomerInterface.resources
+C:\Users\pc\Desktop\konsol örnekleri\Kargo\Kargo\obj\Debug\Kargo.PersonelInterface.resources
+C:\Users\pc\Desktop\konsol örnekleri\Kargo\Kargo\obj\Debug\Kargo.ShipmentInterface.resources
+C:\Users\pc\Desktop\konsol örnekleri\Kargo\Kargo\obj\Debug\Kargo.VehicleInterface.resources
+C:\Users\BRIGHT\Downloads\Kargo\Kargo\bin\Debug\Kargo.exe.config
+C:\Users\BRIGHT\Downloads\Kargo\Kargo\bin\Debug\Kargo.exe
+C:\Users\BRIGHT\Downloads\Kargo\Kargo\bin\Debug\Kargo.pdb
+C:\Users\BRIGHT\Downloads\Kargo\Kargo\bin\Debug\BL.dll
+C:\Users\BRIGHT\Downloads\Kargo\Kargo\bin\Debug\DAL.dll
+C:\Users\BRIGHT\Downloads\Kargo\Kargo\bin\Debug\BL.pdb
+C:\Users\BRIGHT\Downloads\Kargo\Kargo\bin\Debug\DAL.pdb
+C:\Users\BRIGHT\Downloads\Kargo\Kargo\obj\Debug\Kargo.csproj.AssemblyReference.cache
+C:\Users\BRIGHT\Downloads\Kargo\Kargo\obj\Debug\Kargo.csproj.SuggestedBindingRedirects.cache
+C:\Users\BRIGHT\Downloads\Kargo\Kargo\obj\Debug\Kargo.CargoUI.resources
+C:\Users\BRIGHT\Downloads\Kargo\Kargo\obj\Debug\Kargo.CustomerInterface.resources
+C:\Users\BRIGHT\Downloads\Kargo\Kargo\obj\Debug\Kargo.Form1.resources
+C:\Users\BRIGHT\Downloads\Kargo\Kargo\obj\Debug\Kargo.PersonelInterface.resources
+C:\Users\BRIGHT\Downloads\Kargo\Kargo\obj\Debug\Kargo.Properties.Resources.resources
+C:\Users\BRIGHT\Downloads\Kargo\Kargo\obj\Debug\Kargo.Reports.resources
+C:\Users\BRIGHT\Downloads\Kargo\Kargo\obj\Debug\Kargo.ShipmentInterface.resources
+C:\Users\BRIGHT\Downloads\Kargo\Kargo\obj\Debug\Kargo.VehicleInterface.resources
+C:\Users\BRIGHT\Downloads\Kargo\Kargo\obj\Debug\Kargo.csproj.GenerateResource.cache
+C:\Users\BRIGHT\Downloads\Kargo\Kargo\obj\Debug\Kargo.csproj.CoreCompileInputs.cache
+C:\Users\BRIGHT\Downloads\Kargo\Kargo\obj\Debug\Kargo.csproj.CopyComplete
+C:\Users\BRIGHT\Downloads\Kargo\Kargo\obj\Debug\Kargo.exe
+C:\Users\BRIGHT\Downloads\Kargo\Kargo\obj\Debug\Kargo.pdb
+C:\Users\BRIGHT\Downloads\Kargo\Kargo\obj\Debug\Kargo.ReportResultPage.resources

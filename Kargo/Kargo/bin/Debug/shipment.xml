@@ -1,0 +1,6 @@
+<Shipments>
+  <Shipment shipmentName="sdfa" shipmentPickupPoint="fdsa" shipmentTransportationPoint="fdsa" shipmentDistance="342" shipmentFee="13483,0000" />
+  <Shipment shipmentName="fdask" shipmentPickupPoint="fkgdsakjh" shipmentTransportationPoint="fdgksjds" shipmentDistance="324" shipmentFee="1343,0000" />
+  <Shipment shipmentName="fda" shipmentPickupPoint="fsda" shipmentTransportationPoint="sdfa" shipmentDistance="23" shipmentFee="423423,0000" />
+  <Shipment shipmentName="asd" shipmentPickupPoint="fsad" shipmentTransportationPoint="sad" shipmentDistance="324" shipmentFee="23423,0000" />
+</Shipments>

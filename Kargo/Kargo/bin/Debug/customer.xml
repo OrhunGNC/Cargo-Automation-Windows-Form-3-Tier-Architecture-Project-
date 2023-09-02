@@ -1,0 +1,8 @@
+<Customers>
+  <Customer customerNameSurname="fadslah" customerAdress="lhfdsahla" customerPhone="05335423" customerMail="asklfhsadkj" customerPaymentStatus="sdfajkdl" />
+  <Customer customerNameSurname="fdsalkasdg" customerAdress="kljdfsgaklgadksf" customerPhone="0534234" customerMail="asd" customerPaymentStatus="dfs" />
+  <Customer customerNameSurname="sdfaasjl" customerAdress="kjldfsaglkasd" customerPhone="05343" customerMail="dfaas" customerPaymentStatus="fdsafd" />
+  <Customer customerNameSurname="dasfa" customerAdress="ajkldsfad" customerPhone="053434" customerMail="fdsa" customerPaymentStatus="dfsa" />
+  <Customer customerNameSurname="ali" customerAdress="adapazari" customerPhone="dfd" customerMail="sdfad" customerPaymentStatus="dfsdf" />
+  <Customer customerNameSurname="fdg" customerAdress="fdg" customerPhone="dfg" customerMail="dfg" customerPaymentStatus="dfg" />
+</Customers>

@@ -1,0 +1,18 @@
+C:\Users\pc\Desktop\konsol örnekleri\Kargo\BL\bin\Debug\BL.dll
+C:\Users\pc\Desktop\konsol örnekleri\Kargo\BL\bin\Debug\BL.pdb
+C:\Users\pc\Desktop\konsol örnekleri\Kargo\BL\bin\Debug\DAL.dll
+C:\Users\pc\Desktop\konsol örnekleri\Kargo\BL\bin\Debug\DAL.pdb
+C:\Users\pc\Desktop\konsol örnekleri\Kargo\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\konsol örnekleri\Kargo\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\konsol örnekleri\Kargo\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\pc\Desktop\konsol örnekleri\Kargo\BL\obj\Debug\BL.dll
+C:\Users\pc\Desktop\konsol örnekleri\Kargo\BL\obj\Debug\BL.pdb
+C:\Users\BRIGHT\Downloads\Kargo\BL\bin\Debug\BL.dll
+C:\Users\BRIGHT\Downloads\Kargo\BL\bin\Debug\BL.pdb
+C:\Users\BRIGHT\Downloads\Kargo\BL\bin\Debug\DAL.dll
+C:\Users\BRIGHT\Downloads\Kargo\BL\bin\Debug\DAL.pdb
+C:\Users\BRIGHT\Downloads\Kargo\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+C:\Users\BRIGHT\Downloads\Kargo\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\BRIGHT\Downloads\Kargo\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\BRIGHT\Downloads\Kargo\BL\obj\Debug\BL.dll
+C:\Users\BRIGHT\Downloads\Kargo\BL\obj\Debug\BL.pdb
