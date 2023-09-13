@@ -74,5 +74,12 @@ namespace Kargo
             textBox4.Text = column.Cells["vehicleDriver"].Value.ToString();
             textBox5.Text = column.Cells["vehicleExpense"].Value.ToString();
         }
+
+        private void pictureBox7_Click(object sender, EventArgs e)
+        {
+            CargoUI go = new CargoUI();
+            go.Show();
+            this.Hide();
+        }
     }
 }

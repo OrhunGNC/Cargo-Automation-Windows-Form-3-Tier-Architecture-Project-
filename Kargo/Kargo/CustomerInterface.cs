@@ -80,5 +80,12 @@ namespace Kargo
         {
             textBox1.Enabled = false;
         }
+
+        private void pictureBox7_Click(object sender, EventArgs e)
+        {
+            CargoUI go = new CargoUI();
+            go.Show();
+            this.Hide();
+        }
     }
 }

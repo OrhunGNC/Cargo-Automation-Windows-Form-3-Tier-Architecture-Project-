@@ -81,5 +81,12 @@ namespace Kargo
             GCRUD.ShipmentAdd(shipment);
             dataGridView1.DataSource = GCRUD.ShipmentList();
         }
+
+        private void pictureBox7_Click(object sender, EventArgs e)
+        {
+            CargoUI go = new CargoUI();
+            go.Show();
+            this.Hide();
+        }
     }
 }

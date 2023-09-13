@@ -17,7 +17,7 @@ namespace Kargo
         {
             InitializeComponent();
         }
-        SqlConnection coon = new SqlConnection("Server=DESKTOP-38T2N6J;Database=Cargo;Integrated Security=true;");
+        SqlConnection coon = new SqlConnection("Server=DESKTOP-4B2QQPV\\SQLKODLAB;Database=Cargo;Integrated Security=true;");
         private void Form1_Load(object sender, EventArgs e)
         {
             

@@ -60,5 +60,12 @@ namespace Kargo
             dataGridView1.DataSource = dataSet.Tables[0];
             xmlFile.Close();
         }
+
+        private void pictureBox7_Click(object sender, EventArgs e)
+        {
+            Reports go = new Reports();
+            go.Show();
+            this.Hide();
+        }
     }
 }

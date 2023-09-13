@@ -69,5 +69,12 @@ namespace Kargo
             GCRUD.PersonelDel(personel);
             dataGridView1.DataSource = GCRUD.PersonelList();
         }
+
+        private void pictureBox7_Click(object sender, EventArgs e)
+        {
+            CargoUI go = new CargoUI();
+            go.Show();
+            this.Hide();
+        }
     }
 }

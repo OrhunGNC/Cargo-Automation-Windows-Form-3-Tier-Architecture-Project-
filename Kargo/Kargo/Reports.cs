@@ -190,5 +190,19 @@ namespace Kargo
             go.Show();
             this.Hide();
         }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            ReportPage go = new ReportPage();
+            go.Show();
+            this.Hide();
+        }
+
+        private void pictureBox7_Click(object sender, EventArgs e)
+        {
+            CargoUI go = new CargoUI();
+            go.Show();
+            this.Hide();
+        }
     }
 }

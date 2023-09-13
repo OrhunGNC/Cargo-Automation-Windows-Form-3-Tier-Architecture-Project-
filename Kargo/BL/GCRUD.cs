@@ -203,5 +203,53 @@ namespace BL
             cmd.Parameters.AddWithValue("@vehicleExpense", vehicle.vehicleExpense);
             return Tools.ConnectSet(cmd);
         }
+        public static DataTable ShipmentCustomer()
+        {
+            SqlDataAdapter adapter = new SqlDataAdapter("ShipmentCustomer",Tools.coon);
+            adapter.SelectCommand.CommandType = System.Data.CommandType.Text;
+            DataTable dt = new DataTable();
+            adapter.Fill(dt);
+            return dt;
+        }
+        public static DataTable ShipmentVehicle()
+        {
+            SqlDataAdapter adapter = new SqlDataAdapter("ShipmentVehicle", Tools.coon);
+            adapter.SelectCommand.CommandType = System.Data.CommandType.Text;
+            DataTable dt = new DataTable();
+            adapter.Fill(dt);
+            return dt;
+        }
+        public static DataTable ShipmentPersonel()
+        {
+            SqlDataAdapter adapter = new SqlDataAdapter("ShipmentPersonel", Tools.coon);
+            adapter.SelectCommand.CommandType = System.Data.CommandType.Text;
+            DataTable dt = new DataTable();
+            adapter.Fill(dt);
+            return dt;
+        }
+        public static DataTable CustomerShipmentPersonel()
+        {
+            SqlDataAdapter adapter = new SqlDataAdapter("CustomerShipmentPersonel", Tools.coon);
+            adapter.SelectCommand.CommandType = System.Data.CommandType.Text;
+            DataTable dt = new DataTable();
+            adapter.Fill(dt);
+            return dt;
+        }
+        public static DataTable VehicleShipmentPersonel()
+        {
+            SqlDataAdapter adapter = new SqlDataAdapter("VehicleShipmentPersonel", Tools.coon);
+            adapter.SelectCommand.CommandType = System.Data.CommandType.Text;
+            DataTable dt = new DataTable();
+            adapter.Fill(dt);
+            return dt;
+        }
+        public static DataTable VehicleShipmentPersonelCustomer()
+        {
+            SqlDataAdapter adapter = new SqlDataAdapter("VehicleShipmentPersonelCustomer", Tools.coon);
+            adapter.SelectCommand.CommandType = System.Data.CommandType.Text;
+            DataTable dt = new DataTable();
+            adapter.Fill(dt);
+            return dt;
+        }
     }
 }
